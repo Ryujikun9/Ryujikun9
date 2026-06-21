@@ -7,7 +7,7 @@ I'm Andrew, a curious and driven **BSIT Student** at **Bicol University** who lo
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing **Bachelor of Science in Information Technology** at Bicol University  
+- 🎓 Currently pursuing **Bachelor of Science in Information Technology** at **Bicol University**  
 - 💻 Skilled in **C programming, HTML/CSS, and robotics**  
 - 🌱 Exploring different programming languages and tools to broaden my skills and discover new ways to build and create
 - 🎯 Interested in exploring **robotics and automation**, combining coding with hardware to create innovative solutions 
