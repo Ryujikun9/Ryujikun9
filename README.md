@@ -16,7 +16,7 @@ I'm Andrew, a curious and driven **BSIT Student** at **Bicol University** who lo
 
 ## 🛠️ Tech Stack
 - **Languages:** C, HTML, CSS  
-- **Tools:** VS Code, Dev-C++, Logisim, Thinkercad  
+- **Tools:** VS Code, Dev-C++, Logisim, Tinkercad  
 
 ---
 
